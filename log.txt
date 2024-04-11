@@ -1,5 +1,1 @@
-DEBUG:root:debug
-INFO:root:info
-WARNING:root:warning
-ERROR:root:error
-CRITICAL:root:critical
+2024-04-11 13:54:03,111 - INFO - Test Custom Logger
